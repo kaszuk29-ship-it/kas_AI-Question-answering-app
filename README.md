@@ -151,3 +151,6 @@ huggingface_hub
 ## License
 
 This project is created for educational and demonstration purposes.
+
+## APP link
+https://kasai-question-answering-app-vcbgib2qr22donxqdiafgn.streamlit.app/
